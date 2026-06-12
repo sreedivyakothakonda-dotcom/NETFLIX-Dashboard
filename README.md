@@ -23,3 +23,6 @@ Features or Highlights:
 🍿 Movies dominate the platform, accounting for over 97% of the content
 📊 Provides quick insights into Netflix's content strategy and global reach
 
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/sreedivyakothakonda-dotcom/NETFLIX-Dashboard/blob/main/NETFLIX%20dashboard.png)
